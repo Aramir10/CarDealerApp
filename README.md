@@ -1,2 +1,0 @@
-# CarDealerApp
-Car Dealer App
